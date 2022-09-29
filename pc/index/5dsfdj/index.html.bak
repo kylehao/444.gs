@@ -1,6 +1,7 @@
-<html>
+ï»¿<html>
 <head>
-<title>CSS3ÊµÏÖÎåµãÊ½Í¼Æ¬·Å´ó¾µ - Õ¾³¤ËØ²Ä</title>
+<title>CSS3å®žçŽ°äº”ç‚¹å¼å›¾ç‰‡æ”¾å¤§é•œ - ç«™é•¿ç´ æ</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <style>
 	.gallery
 	{
@@ -171,13 +172,13 @@
 </style>
 <link rel="shortcut icon" type="image/x-icon" href="img/an.ico"/>
 		<style type="text/css">
-			/*ÑùÊ½³õÊ¼»¯*/
+			/*æ ·å¼åˆå§‹åŒ–*/
 			* {
 				margin: 0;
 				padding: 0;
 				list-style: none;
 			}
-			/*È¥³ýºáÏò¹ö¶¯Ìõ*/
+			/*åŽ»é™¤æ¨ªå‘æ»šåŠ¨æ¡*/
 			body {
 				overflow-x: hidden;
 				overflow-y: hidden;
@@ -185,7 +186,7 @@
 				font-size:13px;
 				color: #ffffff;
 			}
-			/*½«divÆÌÂúÕû¸ö´°¿Ú*/
+			/*å°†divé“ºæ»¡æ•´ä¸ªçª—å£*/
 			.box {
 				height: 100vh;
 				min-height: 520px;
@@ -195,14 +196,14 @@
 				flex-direction: column;
 background-color: 000;
 			}
-			/*ÉèÖÃ´óulµÄ´óÐ¡¼°¶¨Î»*/
+			/*è®¾ç½®å¤§ulçš„å¤§å°åŠå®šä½*/
 			.content {
 				position: relative;
 				width: 100%;
 				height: 100%;
 background-color: 000;
 			}
-			/*ÉèÖÃ´óliÑùÊ½*/
+			/*è®¾ç½®å¤§liæ ·å¼*/
 			.content li {
 				position: absolute;
 				top: 0;
@@ -224,20 +225,20 @@ background-color: 000;
 			<div class="menu-wrap">
 				<nav class="menu">
 					<div class="icon-list" >
-						<a href="../../"><i class="fa fa-fw fa-star-o"></i><span>¹Åµä·ç¸ñ»¬¿éÌØÐ§</span></a>
-						<a href="../../index/gold/"><i class="fa fa-fw fa-bell-o"></i><span>½ð·¢ÃÀÅ®ÇÐ»»ÌØÐ§</span></a>
-						<a href="../../index/djqdh/"><i class="fa fa-fw fa-envelope-o"></i><span>´ø¼ôÇÐ¶¯»­ÌØÐ§</span></a>
-						<a href="../../index/5dsfdj/"><i class="fa fa-fw fa-comment-o"></i><span>ÎåµãÊ½·Å´ó¾µ</span></a>
-						<a href="../../index/mpzsy/"><i class="fa fa-fw fa-newspaper-o"></i><span>ÂúÆÁ×ÔÊÊÓ¦½¹µãÍ¼</span></a>
-						<a href="../../index/Christmas/"><i class="fa fa-fw fa-star-o"></i><span>Ê¥µ®±³¾°ÊÓ²îÌØÐ§</span></a>
-						<a href="../../index/game/"><i class="fa fa-fw fa-bell-o"></i><span>³¬ìÅÓÎÀÖÔ°¶¯»­</span></a>
-						<a href="../../index/lubiao/"><i class="fa fa-fw fa-newspaper-o"></i><span>Â·±êÅÆ¿¨Í¨ÌØÐ§</span></a>
-						<a href="../../index/360/"><i class="fa fa-fw fa-star-o"></i><span>360¶ÈÈ«¾°Ðý×ªÐ§¹û</span></a>
-						<a href="../../index/3602/"><i class="fa fa-fw fa-bell-o"></i><span>360¶ÈÈ«¾°Ðý×ªÐ§¹û2</span></a>
-						<a href="../../index/hallowween/"><i class="fa fa-fw fa-newspaper-o"></i><span>ÍòÊ¥½Ú¶¯»­ÌØÐ§</span></a>
-						<a href="../../index/luopan/"><i class="fa fa-fw fa-newspaper-o"></i><span>·çË®ÂÞÅÌÐý×ªÌØÐ§</span></a>
-						<a href="../../index/guosc/"><i class="fa fa-fw fa-newspaper-o"></i><span>¹ýÉ½³µ¶¯»­ÌØÐ§</span></a>
-						<a href="../../index/jimu/"><i class="fa fa-fw fa-bell-o"></i><span>ÖØÁ¦ÏÂÂä»ýÄ¾ÓÎÏ·</span></a>
+						<a href="../../"><i class="fa fa-fw fa-star-o"></i><span>å¤å…¸é£Žæ ¼æ»‘å—ç‰¹æ•ˆ</span></a>
+						<a href="../../index/gold/"><i class="fa fa-fw fa-bell-o"></i><span>é‡‘å‘ç¾Žå¥³åˆ‡æ¢ç‰¹æ•ˆ</span></a>
+						<a href="../../index/mpzsy2/"><i class="fa fa-fw fa-envelope-o"></i><span>æ»¡å±è‡ªé€‚åº”è½®æ’­å›¾</span></a>
+						<a href="../../index/5dsfdj/"><i class="fa fa-fw fa-comment-o"></i><span>äº”ç‚¹å¼æ”¾å¤§é•œ</span></a>
+						<a href="../../index/mpzsy/"><i class="fa fa-fw fa-newspaper-o"></i><span>æ»¡å±è‡ªé€‚åº”ç„¦ç‚¹å›¾</span></a>
+						<a href="../../index/Christmas/"><i class="fa fa-fw fa-star-o"></i><span>åœ£è¯žèƒŒæ™¯è§†å·®ç‰¹æ•ˆ</span></a>
+						<a href="../../index/game/"><i class="fa fa-fw fa-bell-o"></i><span>è¶…ç‚«æ¸¸ä¹å›­åŠ¨ç”»</span></a>
+						<a href="../../index/lubiao/"><i class="fa fa-fw fa-newspaper-o"></i><span>è·¯æ ‡ç‰Œå¡é€šç‰¹æ•ˆ</span></a>
+						<a href="../../index/360/"><i class="fa fa-fw fa-star-o"></i><span>360åº¦å…¨æ™¯æ—‹è½¬æ•ˆæžœ</span></a>
+						<a href="../../index/3602/"><i class="fa fa-fw fa-bell-o"></i><span>360åº¦å…¨æ™¯æ—‹è½¬æ•ˆæžœ2</span></a>
+						<a href="../../index/hallowween/"><i class="fa fa-fw fa-newspaper-o"></i><span>ä¸‡åœ£èŠ‚åŠ¨ç”»ç‰¹æ•ˆ</span></a>
+						<a href="../../index/luopan/"><i class="fa fa-fw fa-newspaper-o"></i><span>é£Žæ°´ç½—ç›˜æ—‹è½¬ç‰¹æ•ˆ</span></a>
+						<a href="../../index/guosc/"><i class="fa fa-fw fa-newspaper-o"></i><span>è¿‡å±±è½¦åŠ¨ç”»ç‰¹æ•ˆ</span></a>
+						<a href="../../index/jimu/"><i class="fa fa-fw fa-bell-o"></i><span>é‡åŠ›ä¸‹è½ç§¯æœ¨æ¸¸æˆ</span></a>
 					
 					</div>
 				</nav>
@@ -253,115 +254,115 @@ background-color: 000;
 	
 					
 
-<!-- ´úÂë ¿ªÊ¼ -->
+<!-- ä»£ç  å¼€å§‹ -->
 <div class="fish" style="position:absolute; width:400px; height:500px; z-index:2; left: 20px; top: 50px;backgroud-color:000;">
 <table>
-	<!-- µÚ1ÐÐ -->
+	<!-- ç¬¬1è¡Œ -->
     <tr>
      <td width="40"></td>
-     <td align="center" width="70"><a href="http://cloud.2345.ltd/" target="_blank"><img name="folder" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/folder.gif" width="50" height="50" border="0" id="index_r2_c2" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://cloud.2345.ltd/" target="_blank"><img name="folder" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/folder.gif" width="50" height="50" border="0" id="index_r2_c2" alt="" /></a></td>
      <td width="20"></td>
-     <td align="center" width="70"><a href="http://660000.xyz" target="_blank"><img name="pictures" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/pictures.gif" width="50" height="50" border="0" id="index_r2_c4" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://660000.xyz" target="_blank"><img name="pictures" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/pictures.gif" width="50" height="50" border="0" id="index_r2_c4" alt="" /></a></td>
      <td width="20"></td>
-     <td align="center" width="70"><a href="http://vip.2345.ltd/" target="_blank"><img name="vip" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/vip.gif" width="50" height="50" border="0" id="index_r2_c6" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://vip.2345.ltd/" target="_blank"><img name="vip" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/vip.gif" width="50" height="50" border="0" id="index_r2_c6" alt="" /></a></td>
      
     </tr>
     <tr>
      <td width="40"></td>
-     <td align="center" width="70">ÎÒµÄÎÄµµ</td>
+     <td align="center" width="70">æˆ‘çš„æ–‡æ¡£</td>
      <td width="20"></td>
-     <td align="center" width="70">ÎÒµÄÏà²á</td>
+     <td align="center" width="70">æˆ‘çš„ç›¸å†Œ</td>
      <td width="20"></td>
-     <td align="center" width="70">ÊÓÆµ½âÎö</td>
-     
-    </tr>
-    <tr>
-     <td>&nbsp;</td>
-    </tr>
-    
-<!-- µÚ2ÐÐ -->   
-    <tr>
-     <td width="40"></td>
-     <td align="center" width="70"><a href="http://pan.2345.ltd/" target="_blank"><img name="computer" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/computer.gif" width="50" height="50" border="0" id="index_r5_c2" alt="" /></a></td>
-     <td width="20"></td>
-     <td align="center" width="70"><a href="http://www.free163.com/" target="_blank"><img name="poem" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/poem.gif" width="50" height="50" border="0" id="index_r5_c6" alt="" /></a></td>
-     <td width="20"></td>
-     <td align="center" width="70"><a href="http://www.odj.cc" target="_blank"><img name="music" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/lxyy.gif" width="50" height="50" border="0" id="index_r11_c2" alt="" /></a></td>
-     
-    </tr>
-    <tr>
-     <td width="40"></td>
-     <td align="center" width="70">ÎÒµÄµçÄÔ</td>
-     <td width="20"></td>
-     <td align="center" width="70">¹ÅµäÊ«´Ê</td>
-     <td width="20"></td>
-     <td align="center" width="70">ÔÚÏßÒôÀÖ</td>
+     <td align="center" width="70">è§†é¢‘è§£æž</td>
      
     </tr>
     <tr>
      <td>&nbsp;</td>
     </tr>
     
-<!-- µÚ3ÐÐ -->
+<!-- ç¬¬2è¡Œ -->   
     <tr>
      <td width="40"></td>
-     <td align="center" width="70"><a href="http://www.book.ga" target="_blank"><img name="wuxia" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/wuxia.gif" width="50" height="50" border="0" id="index_r8_c6" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://pan.2345.ltd/" target="_blank"><img name="computer" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/computer.gif" width="50" height="50" border="0" id="index_r5_c2" alt="" /></a></td>
      <td width="20"></td>
-     <td align="center" width="70"><a href="http://www.free163.tk" target="_blank"><img name="down" src="https://code.aliyun.com/free163/publiclib/raw/bff315f5addde02d41b7cacfdd403118168fe67c/desktop_computer/log.png" width="50" height="50" border="0" id="index_r11_c4" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://www.free163.com/" target="_blank"><img name="poem" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/poem.gif" width="50" height="50" border="0" id="index_r5_c6" alt="" /></a></td>
      <td width="20"></td>
-     <td align="center" width="70"><a href="http://alist.2345.ltd" target="_blank"><img name="down" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/aliyun.gif" width="50" height="50" border="0" id="index_r11_c4" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://www.odj.cc" target="_blank"><img name="music" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/lxyy.gif" width="50" height="50" border="0" id="index_r11_c2" alt="" /></a></td>
      
     </tr>
     <tr>
      <td width="40"></td>
-     <td align="center" width="70">ÎäÏÀÐ¡Ëµ</td>
+     <td align="center" width="70">æˆ‘çš„ç”µè„‘</td>
      <td width="20"></td>
-     <td align="center" width="70">ÌýËÉ¸ó</td>
+     <td align="center" width="70">å¤å…¸è¯—è¯</td>
      <td width="20"></td>
-     <td align="center" width="70">°¢ÀïÔÆÅÌ</td>
+     <td align="center" width="70">åœ¨çº¿éŸ³ä¹</td>
      
     </tr>
     <tr>
      <td>&nbsp;</td>
     </tr>
     
-<!-- µÚ4ÐÐ -->
+<!-- ç¬¬3è¡Œ -->
     <tr>
      <td width="40"></td>
-     <td align="center" width="70"><a href="http://skycz.com/" target="_blank"><img name="blog" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/blog.gif" width="50" height="50" border="0" id="index_r11_c4" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://www.book.ga" target="_blank"><img name="wuxia" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/wuxia.gif" width="50" height="50" border="0" id="index_r8_c6" alt="" /></a></td>
      <td width="20"></td>
-     <td align="center" width="70"><a href="http://kylehao.ysepan.com/" target="_blank"><img name="share" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/share.gif" width="50" height="50" border="0" id="index_r5_c4" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://www.free163.tk" target="_blank"><img name="down" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/log.png" width="50" height="50" border="0" id="index_r11_c4" alt="" /></a></td>
      <td width="20"></td>
-     <td align="center" width="70"><a href="http://44444.ltd/" target="_blank"><img name="share" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/dys.gif" width="50" height="50" border="0" id="index_r5_c4" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://alist.2345.ltd" target="_blank"><img name="down" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/aliyun.gif" width="50" height="50" border="0" id="index_r11_c4" alt="" /></a></td>
+     
+    </tr>
+    <tr>
+     <td width="40"></td>
+     <td align="center" width="70">æ­¦ä¾ å°è¯´</td>
+     <td width="20"></td>
+     <td align="center" width="70">å¬æ¾é˜</td>
+     <td width="20"></td>
+     <td align="center" width="70">é˜¿é‡Œäº‘ç›˜</td>
+     
+    </tr>
+    <tr>
+     <td>&nbsp;</td>
+    </tr>
+    
+<!-- ç¬¬4è¡Œ -->
+    <tr>
+     <td width="40"></td>
+     <td align="center" width="70"><a href="http://skycz.com/" target="_blank"><img name="blog" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/blog.gif" width="50" height="50" border="0" id="index_r11_c4" alt="" /></a></td>
+     <td width="20"></td>
+     <td align="center" width="70"><a href="http://kylehao.ysepan.com/" target="_blank"><img name="share" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/share.gif" width="50" height="50" border="0" id="index_r5_c4" alt="" /></a></td>
+     <td width="20"></td>
+     <td align="center" width="70"><a href="http://44444.ltd/" target="_blank"><img name="share" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/dys.gif" width="50" height="50" border="0" id="index_r5_c4" alt="" /></a></td>
      
     </tr>
    <tr>
    	<td width="40"></td>
-    <td align="center" width="70">ÎÒµÄ²©¿Í</td>
+    <td align="center" width="70">æˆ‘çš„åšå®¢</td>
     <td width="20"></td>
-    <td align="center" width="70">ÎÄ¼þ·ÖÏí</td>
+    <td align="center" width="70">æ–‡ä»¶åˆ†äº«</td>
     <td width="20"></td>
-    <td align="center" width="70">µÂÔÆÉç</td>
+    <td align="center" width="70">å¾·äº‘ç¤¾</td>
     
    </tr>
    <tr>
     <td >&nbsp;</td>
    </tr>
-<!-- µÚ5ÐÐ -->
+<!-- ç¬¬5è¡Œ -->
     <tr>
      <td width="40"></td>
-     <td align="center" width="70"><a href="http://mail.pu.cx/" target="_blank"><img name="mail" src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/mail.gif" width="50" height="50" border="0" id="index_r11_c4" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://mail.pu.cx/" target="_blank"><img name="mail" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/mail.gif" width="50" height="50" border="0" id="index_r11_c4" alt="" /></a></td>
      <td width="20"></td>
-     <td align="center" width="70"><a href="http://www.kkkk.info/" target="_blank"><img name="mail" src="https://code.aliyun.com/free163/publiclib/raw/954a6131117869f8d446463746df3df4d6aa0a84/desktop_computer/mi.png" width="50" height="50" border="0" id="index_r11_c4" alt="" /></a></td>
+     <td align="center" width="70"><a href="http://www.kkkk.info/" target="_blank"><img name="mail" src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/mi.png" width="50" height="50" border="0" id="index_r11_c4" alt="" /></a></td>
      <td width="20"></td>
      <td align="center" width="70"></td>
      
     </tr>
    <tr>
    	<td width="40"></td>
-    <td align="center" width="70">ÎÒµÄÓÊ¾Ö</td>
+    <td align="center" width="70">æˆ‘çš„é‚®å±€</td>
     <td width="20"></td>
-    <td align="center" width="70">ÎÒµÄÃ×±í</td>
+    <td align="center" width="70">æˆ‘çš„ç±³è¡¨</td>
     <td width="20"></td>
     <td align="center" width="70"></td>
     
@@ -377,7 +378,7 @@ background-color: 000;
 
 
 
-<!-- µ×²¿ºÍ°´Å¥ -->
+<!-- åº•éƒ¨å’ŒæŒ‰é’® -->
 <div class="fish" style="position:absolute; width:1365; height:39; z-index:6; left: 0px; bottom: -3px;backgroud-color:000;">
 <img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_images/bottom.jpg" width="1366" height="39" border="0" alt="">
 
@@ -386,19 +387,19 @@ background-color: 000;
 <div class="fish" style="position:absolute; width:50; height:50; z-index:7; left: 0px; bottom: -3px;backgroud-color:000;">
 <table>
 	<tr>
-		<td><a href="http://my.2345.ltd" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="40" height="50" border="0" alt=""></a></td>
+		<td><a href="http://my.2345.ltd" target="_blank"><img src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/space.gif" width="40" height="50" border="0" alt=""></a></td>
 		<td width="20">&nbsp;</td>
-		<td><a href="http://cloud.2345.ltd" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="40" height="50" border="0" alt=""></a></td>
+		<td><a href="http://cloud.2345.ltd" target="_blank"><img src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/space.gif" width="40" height="50" border="0" alt=""></a></td>
 		<td width="1050">&nbsp;</td>
-		<td><a href="http://wx.qq.com/" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
+		<td><a href="http://wx.qq.com/" target="_blank"><img src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
 		<td width="10">&nbsp;</td>
-		<td><a href="http://www.360.cn" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
+		<td><a href="http://www.360.cn" target="_blank"><img src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
 		<td width="7">&nbsp;</td>
-		<td><a href="http://odj.cc" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
+		<td><a href="http://odj.cc" target="_blank"><img src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
 		<td width="6">&nbsp;</td>
-		<td><a href="http://odj.cc" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
+		<td><a href="http://odj.cc" target="_blank"><img src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
 		<td width="4">&nbsp;</td>
-		<td><a href="http://odj.cc" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
+		<td><a href="http://odj.cc" target="_blank"><img src="https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
 		
 			
 	</tr>
@@ -407,7 +408,7 @@ background-color: 000;
 
 
 </div>
-<!-- ´úÂë ½áÊø -->
+<!-- ä»£ç  ç»“æŸ -->
 
 
 </div>
@@ -438,8 +439,8 @@ background-color: 000;
 <br />
 
 <div style="text-align:center;margin:650px 0; font:normal 14px/24px 'MicroSoft YaHei';">
-<p>ÊÊÓÃä¯ÀÀÆ÷£º360¡¢FireFox¡¢Chrome¡¢Safari¡¢Opera¡¢°ÁÓÎ¡¢ËÑ¹·¡¢ÊÀ½çÖ®´°. ²»Ö§³ÖIE8¼°ÒÔÏÂä¯ÀÀÆ÷¡£</p>
-<p>À´Ô´£º<a href="http://sc.chinaz.com/" target="_blank">Õ¾³¤ËØ²Ä</a></p>
+<p>é€‚ç”¨æµè§ˆå™¨ï¼š360ã€FireFoxã€Chromeã€Safariã€Operaã€å‚²æ¸¸ã€æœç‹—ã€ä¸–ç•Œä¹‹çª—. ä¸æ”¯æŒIE8åŠä»¥ä¸‹æµè§ˆå™¨ã€‚</p>
+<p>æ¥æºï¼š<a href="http://sc.chinaz.com/" target="_blank">ç«™é•¿ç´ æ</a></p>
 </div>
 </body>
 </html>
